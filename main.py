@@ -30,20 +30,28 @@ def create_blue_thread(set_num):
     global sleep_time, semaphore, n
     for i in range(n):
         semaphore.acquire()
+        # sleep(sleep_time)
+        if i == 0:
+            print("Blue only")
         worker = Thread(target=deduct_blue, args=[set_num, i])
         worker.start()
         semaphore.release()
-    sleep(sleep_time)
+        if i == n-1:
+            print("Empty fitting room")
 
 
 def create_green_thread(set_num):
     global sleep_time, semaphore, n
     for i in range(n):
         semaphore.acquire()
+        # sleep(sleesp_time)
+        if i == 0:
+            print("Green only\n")
         worker = Thread(target=deduct_green, args=[set_num, i])
         worker.start()
         semaphore.release()
-    sleep(sleep_time)
+        if i == n-1:
+            print("Empty fitting room\n")
 
 
 def create_color_threads():
