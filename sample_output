@@ -1,70 +1,113 @@
+Blue only
 blue 20->19 green 50 Thread-0 Set-0: 
 blue 19->18 green 50 Thread-1 Set-0: 
 blue 18->17 green 50 Thread-2 Set-0: 
 blue 17->16 green 50 Thread-3 Set-0: 
 blue 16->15 green 50 Thread-4 Set-0: 
 blue 15->14 green 50 Thread-5 Set-0: 
-blue: 14 green: 50->49 Thread-0 Set-5: 
-blue: 14 green: 49->48 Thread-1 Set-5: 
-blue: 14 green: 48->47 Thread-2 Set-5: 
-blue: 14 green: 47->46 Thread-3 Set-5: 
-blue: 14 green: 46->45 Thread-4 Set-5: 
-blue: 14 green: 45->44 Thread-5 Set-5: 
-blue: 14 green: 44->43 Thread-0 Set-6: 
-blue: 14 green: 43->42 Thread-1 Set-6: 
-blue: 14 green: 42->41 Thread-2 Set-6: 
-blue: 14 green: 41->40 Thread-3 Set-6: 
-blue: 14 green: 40->39 Thread-4 Set-6: 
-blue: 14 green: 39->38 Thread-5 Set-6: 
-blue: 14 green: 38->37 Thread-0 Set-9: 
-blue: 14 green: 37->36 Thread-1 Set-9: 
-blue: 14 green: 36->35 Thread-2 Set-9: 
-blue: 14 green: 35->34 Thread-3 Set-9: 
-blue: 14 green: 34->33 Thread-4 Set-9: 
-blue: 14 green: 33->32 Thread-5 Set-9: 
-blue 14->13 green 32 Thread-0 Set-2: 
-blue 13->12 green 32 Thread-1 Set-2: 
-blue 12->11 green 32 Thread-2 Set-2: 
-blue 11->10 green 32 Thread-3 Set-2: 
-blue 10->9 green 32 Thread-4 Set-2: 
-blue 9->8 green 32 Thread-5 Set-2: 
-blue 8->7 green 32 Thread-0 Set-11: 
-blue 7->6 green 32 Thread-1 Set-11: 
-blue 6->5 green 32 Thread-2 Set-11: 
-blue 5->4 green 32 Thread-3 Set-11: 
-blue 4->3 green 32 Thread-4 Set-11: 
-blue 3->2 green 32 Thread-5 Set-11: 
-blue: 2 green: 32->31 Thread-0 Set-3: 
-blue: 2 green: 31->30 Thread-1 Set-3: 
-blue: 2 green: 30->29 Thread-2 Set-3: 
-blue: 2 green: 29->28 Thread-3 Set-3: 
-blue: 2 green: 28->27 Thread-4 Set-3: 
-blue: 2 green: 27->26 Thread-5 Set-3: 
-blue 2->1 green 26 Thread-0 Set-1: 
-blue 1->0 green 26 Thread-1 Set-1: 
-blue: 0 green: 26->25 Thread-0 Set-10: 
-blue: 0 green: 25->24 Thread-1 Set-10: 
-blue: 0 green: 24->23 Thread-2 Set-10: 
-blue: 0 green: 23->22 Thread-3 Set-10: 
-blue: 0 green: 22->21 Thread-4 Set-10: 
-blue: 0 green: 21->20 Thread-5 Set-10: 
+Empty fitting roomGreen only
+
+
+blue: 14 green: 50->49 Thread-0 Set-3: 
+blue: 14 green: 49->48 Thread-1 Set-3: 
+blue: 14 green: 48->47 Thread-2 Set-3: 
+blue: 14 green: 47->46 Thread-3 Set-3: 
+blue: 14 green: 46->45 Thread-4 Set-3: 
+blue: 14 green: 45->44 Thread-5 Set-3: 
+Empty fitting room
+
+Blue only
+blue 14->13 green 44 Thread-0 Set-2: 
+blue 13->12 green 44 Thread-1 Set-2: 
+blue 12->11 green 44 Thread-2 Set-2: 
+blue 11->10 green 44 Thread-3 Set-2: 
+blue 10->9 green 44 Thread-4 Set-2: 
+blue 9->8 green 44 Thread-5 Set-2: Empty fitting room
+Green only
+
+
+blue: 8 green: 44->43 Thread-0 Set-10: 
+blue: 8 green: 43->42 Thread-1 Set-10: 
+blue: 8 green: 42->41 Thread-2 Set-10: 
+blue: 8 green: 41->40 Thread-3 Set-10: 
+blue: 8 green: 40->39 Thread-4 Set-10: 
+blue: 8 green: 39->38 Thread-5 Set-10: Empty fitting room
+
+
+Green only
+
+blue: 8 green: 38->37 Thread-0 Set-8: 
+blue: 8 green: 37->36 Thread-1 Set-8: 
+blue: 8 green: 36->35 Thread-2 Set-8: 
+blue: 8 green: 35->34 Thread-3 Set-8: 
+blue: 8 green: 34->33 Thread-4 Set-8: 
+blue: 8 green: 33->32 Thread-5 Set-8: Empty fitting room
+
+
+Green only
+
+blue: 8 green: 32->31 Thread-0 Set-6: 
+blue: 8 green: 31->30 Thread-1 Set-6: 
+blue: 8 green: 30->29 Thread-2 Set-6: 
+blue: 8 green: 29->28 Thread-3 Set-6: 
+blue: 8 green: 28->27 Thread-4 Set-6: 
+blue: 8 green: 27->26 Thread-5 Set-6: Empty fitting room
+
+Green only
+
+
+blue: 8 green: 26->25 Thread-0 Set-5: 
+blue: 8 green: 25->24 Thread-1 Set-5: 
+blue: 8 green: 24->23 Thread-2 Set-5: 
+blue: 8 green: 23->22 Thread-3 Set-5: 
+blue: 8 green: 22->21 Thread-4 Set-5: 
+blue: 8 green: 21->20 Thread-5 Set-5: 
+Empty fitting room
+Blue only
+
+blue 8->7 green 20 Thread-0 Set-1: 
+blue 7->6 green 20 Thread-1 Set-1: 
+blue 6->5 green 20 Thread-2 Set-1: 
+blue 5->4 green 20 Thread-3 Set-1: 
+blue 4->3 green 20 Thread-4 Set-1: 
+blue 3->2 green 20 Thread-5 Set-1: Empty fitting roomBlue only
+
+
+blue 2->1 green 20 Thread-0 Set-11: 
+blue 1->0 green 20 Thread-1 Set-11: 
+Empty fitting roomGreen only
+
+
 blue: 0 green: 20->19 Thread-0 Set-7: 
 blue: 0 green: 19->18 Thread-1 Set-7: 
 blue: 0 green: 18->17 Thread-2 Set-7: 
 blue: 0 green: 17->16 Thread-3 Set-7: 
 blue: 0 green: 16->15 Thread-4 Set-7: 
-blue: 0 green: 15->14 Thread-5 Set-7: 
+blue: 0 green: 15->14 Thread-5 Set-7: Empty fitting room
+
+
+Green only
+
 blue: 0 green: 14->13 Thread-0 Set-12: 
 blue: 0 green: 13->12 Thread-1 Set-12: 
 blue: 0 green: 12->11 Thread-2 Set-12: 
 blue: 0 green: 11->10 Thread-3 Set-12: 
 blue: 0 green: 10->9 Thread-4 Set-12: 
-blue: 0 green: 9->8 Thread-5 Set-12: 
-blue: 0 green: 8->7 Thread-0 Set-8: 
-blue: 0 green: 7->6 Thread-1 Set-8: 
-blue: 0 green: 6->5 Thread-2 Set-8: 
-blue: 0 green: 5->4 Thread-3 Set-8: 
-blue: 0 green: 4->3 Thread-4 Set-8: 
-blue: 0 green: 3->2 Thread-5 Set-8: 
+blue: 0 green: 9->8 Thread-5 Set-12: Empty fitting room
+
+
+Green only
+
+blue: 0 green: 8->7 Thread-0 Set-9: 
+blue: 0 green: 7->6 Thread-1 Set-9: 
+blue: 0 green: 6->5 Thread-2 Set-9: 
+blue: 0 green: 5->4 Thread-3 Set-9: 
+blue: 0 green: 4->3 Thread-4 Set-9: 
+blue: 0 green: 3->2 Thread-5 Set-9: 
+Empty fitting room
+Green only
+
+
 blue: 0 green: 2->1 Thread-0 Set-4: 
 blue: 0 green: 1->0 Thread-1 Set-4: 
+Empty fitting room
